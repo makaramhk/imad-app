@@ -20,3 +20,8 @@ body {
     height: 200px;
 }
 
+.constainer{
+    
+    padding-top:0 auto;
+    padding-left:30px;
+}
